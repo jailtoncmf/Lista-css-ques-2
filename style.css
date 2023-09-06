@@ -1,0 +1,32 @@
+.input {
+  display: flex;
+  margin-bottom: 10px;
+}
+
+.input2 {
+  width: 200px;
+  border: 1px solid #0d0d0d;
+  padding: 10px;
+}
+
+.select {
+  display: flex;
+  margin-bottom: 10px;
+}
+
+.select2 {
+  width: 200px;
+  border: 1px solid #000000;
+  padding: 10px;
+}
+
+.textarea {
+  margin-bottom: 10px;
+}
+
+.textarea2 {
+  width: 100%;
+  min-height: 100px;
+  border: 1px solid #050505;
+  padding: 10px;
+}
